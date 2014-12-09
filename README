@@ -1,0 +1,20 @@
+Gio Lapid
+1262354
+CS12B
+07-03-13
+PA1: Extrema
+
+Purpose: The purpose of this program is to use recursion to find the minimum
+and maximum elements of an array.
+
+Files:
+
+README
+Makefile
+Extrema.java
+
+Notes:
+
+i. Wrote the base case to make sure the array has more than one element.
+ii. Recurse from the middle until they reach the base case.
+iii. Compare left and right arrays to find the minimum or maximum.  
